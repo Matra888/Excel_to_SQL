@@ -4,7 +4,7 @@
 
 Import large Excel files to SQL database such as PostgreSQL with simple Python Code. 
 
-Here is a short 2 min video on the code implementation - https://www.loom.com/share/caa0243287ea4f95a078c1faf50c5a81
+Here is a short 3 min video on the code implementation - https://www.loom.com/share/caa0243287ea4f95a078c1faf50c5a81
 
 Python code here: 
 
